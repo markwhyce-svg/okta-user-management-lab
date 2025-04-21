@@ -1,6 +1,6 @@
 # 🛡️ Okta User Management Lab
 
-This project showcases how to create and manage users in Okta through manual entry and CSV import, and how to assign standard administrative roles. It demonstrates core identity and access management tasks.
+This lab showcases how to create and manage users in Okta through manual entry and CSV import, and how to assign standard administrative roles. It demonstrates core identity and access management tasks.
 
 ---
 
